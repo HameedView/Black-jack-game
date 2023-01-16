@@ -1,0 +1,19 @@
+body{
+    background-color: green;
+    color: white;
+    text-align: center;
+}
+h1{
+    color: yellow;
+}
+
+button{
+    background-color: yellow;
+    color: green;
+    border: none;
+    padding: 9px;
+    font-size: large;
+    width: 150px;
+    font-weight: bold;
+    margin-bottom: 4px;
+}
